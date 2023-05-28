@@ -1,16 +1,42 @@
-### Hi there 👋
+<style>
+    .dot {
+        height: 25px;
+        width: 25px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+    }
+</style>
 
-<!--
-**Tech0ne/Tech0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a name="readme-top"></a>
 
-Here are some ideas to get you started:
+<br />
+<div align="center">
+  <a href="https://github.com/Tech0ne">
+    <img src="https://avatars.githubusercontent.com/u/114503799?v=4" alt="Logo" width="80" height="80">
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3 align="center">Tech0ne</h3>
+
+  <p align="center">
+    Work account of <a href="https://github.com/fxndone">FoxoundOne</a>
+    <br />
+</div>
+
+<img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech0ne&layout=compact&theme=transparent" />
+  <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=tech0ne&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats"/>
+
+---
+
+## Best projects
+
+---
+
+## Loved languages
+
+<p align="center">
+    <a href="https://www.python.org/"><img src="https://worldvectorlogo.com/logos/python-5.svg" width="80" height="80"/></a>
+    <a href="https://cplusplus.com/"><img src="https://worldvectorlogo.com/logos/c.svg" width="80" height="80"/></a>
+    <a href="https://www.rust-lang.org/"><img src="https://worldvectorlogo.com/logos/rust.svg" width="80" height="80"/></a>
+    <a href="https://www.rust-lang.org/"><img src="https://worldvectorlogo.com/logos/unity-69.svg" width="80" height="80"/></a>
+</p>
