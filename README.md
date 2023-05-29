@@ -1,16 +1,3 @@
-<style>
-    .dot_2 {
-        border-radius: 25px;
-        background: #777777;
-        padding: 10px; 
-    }
-    .dot_1 {
-        border-radius: 25px;
-        background: #444444;
-        padding: 10px; 
-    }
-</style>
-
 <a name="readme-top"></a>
 
 <br />
@@ -48,3 +35,16 @@
     <a href="https://www.rust-lang.org/"><img class="dot_2" src="https://worldvectorlogo.com/logos/rust.svg" width="80" height="80"/></a>&emsp;
     <a href="https://www.rust-lang.org/"><img class="dot_2" src="https://worldvectorlogo.com/logos/unity-69.svg" width="80" height="80"/></a>&emsp;
 </p>
+
+<style>
+    .dot_2 {
+        border-radius: 25px;
+        background: #777777;
+        padding: 10px; 
+    }
+    .dot_1 {
+        border-radius: 25px;
+        background: #444444;
+        padding: 10px; 
+    }
+</style>
