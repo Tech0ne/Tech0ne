@@ -1,10 +1,13 @@
 <style>
-    .dot {
-        height: 25px;
-        width: 25px;
-        background-color: #bbb;
-        border-radius: 50%;
-        display: inline-block;
+    .dot_2 {
+        border-radius: 25px;
+        background: #777777;
+        padding: 10px; 
+    }
+    .dot_1 {
+        border-radius: 25px;
+        background: #444444;
+        padding: 10px; 
     }
 </style>
 
@@ -30,13 +33,18 @@
 
 ## Best projects
 
+<p align="center">
+<a href="https://github.com/Tech0ne/EPITECH-MyHunter"><img class="dot_1" src="images/icons/my_hunter.png" width="80" height="80"/></a>&emsp;
+<a href="https://github.com/Tech0ne/RemoteWiFi-client"><img class="dot_1" src="images/icons/remote_wifi.png" width="80" height="80"/></a>&emsp;
+</p>
+
 ---
 
 ## Loved languages
 
 <p align="center">
-    <a href="https://www.python.org/"><img src="https://worldvectorlogo.com/logos/python-5.svg" width="80" height="80"/></a>
-    <a href="https://cplusplus.com/"><img src="https://worldvectorlogo.com/logos/c.svg" width="80" height="80"/></a>
-    <a href="https://www.rust-lang.org/"><img src="https://worldvectorlogo.com/logos/rust.svg" width="80" height="80"/></a>
-    <a href="https://www.rust-lang.org/"><img src="https://worldvectorlogo.com/logos/unity-69.svg" width="80" height="80"/></a>
+    <a href="https://www.python.org/"><img class="dot_2" src="https://worldvectorlogo.com/logos/python-5.svg" width="80" height="80"/></a>&emsp;
+    <a href="https://cplusplus.com/"><img class="dot_2" src="https://worldvectorlogo.com/logos/c.svg" width="80" height="80"/></a>&emsp;
+    <a href="https://www.rust-lang.org/"><img class="dot_2" src="https://worldvectorlogo.com/logos/rust.svg" width="80" height="80"/></a>&emsp;
+    <a href="https://www.rust-lang.org/"><img class="dot_2" src="https://worldvectorlogo.com/logos/unity-69.svg" width="80" height="80"/></a>&emsp;
 </p>
