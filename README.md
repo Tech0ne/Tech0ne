@@ -33,7 +33,7 @@
 
 <p align="center">
     <a href="https://www.python.org/"><img src="images/icons/python.png" width="100" height="100"/></a>&emsp;
-    <a href="https://cplusplus.com/"><img src="images/icons/cpp.png" width="100" height="100"/></a>&emsp;
+    <a href="https://www.cprogramming.com/"><img src="images/icons/c.png" width="100" height="100"/></a>&emsp;
     <a href="https://www.rust-lang.org/"><img src="images/icons/rust.png" width="100" height="100"/></a>&emsp;
     <a href="https://unity.com/"><img src="images/icons/unity.png" width="100" height="100"/></a>&emsp;
 </p>
