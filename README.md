@@ -16,6 +16,14 @@
 <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech0ne&layout=compact&theme=transparent" />
   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=tech0ne&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&custom_title=Stats"/>
 
+## Donations
+
+<p align="center">
+    If you like my work and want to help me financially, first of all, thank you very much !
+    You can find me on <a href="https://ko-fi.com/tech0ne">Ko-Fi</a> !
+    Thank you again !
+</p>
+
 ---
 
 ## Best projects
